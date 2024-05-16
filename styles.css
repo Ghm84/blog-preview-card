@@ -1,0 +1,92 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    width: 375px;
+    height: 812px;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    width: 90%;
+    height: 65%;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 5%;
+    border-color: hsl(0, 0%, 7%);
+}
+
+.container {
+    width: 100%;
+    height: 95%;
+}
+
+.illustration {
+    width: 90%;
+    height: 45%;
+    margin-left: 15px; 
+    border-radius: 18px;
+}
+
+h2 {
+    background-color: hsl(47, 88%, 63%);
+    width: 90px;
+    color: hsl(0, 0%, 7%);
+    font-family: "Figtree";
+    font-size: 13px;
+    font-weight: 500 bold;
+    padding-top: 6px;
+    padding-left: .5px;
+    padding-right: .5px;
+    padding-bottom: 7px;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+h3 {
+    color: hsl(0, 0%, 7%);
+    font-family: "Figtree";
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+h1 {
+    color: hsl(0, 0%, 7%);
+    font-family: "Figtree";
+    font-size: 22px;
+    font-weight: 800;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+p {
+    color: hsl(0, 0%, 50%);
+    font-family: "Figtree";
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.credits {
+    width: 50%;
+}
+
+.avatar {
+    position: absolute;
+    width: 11%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+h4 {
+    position: absolute;
+    width: 125px;
+    font-family: "Figtree";
+    font-size: 15px;
+    font-weight: 800;
+    margin-top: 22px;
+    margin-left: 75px;
+}
