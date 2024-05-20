@@ -113,7 +113,7 @@ h4 {
 @media screen and (min-width: 900px) and (max-width: 1440px) {
     
     body {
-        margin-left: 502px;
+        margin-left: 505px;
     }
 
     .card {
@@ -123,7 +123,7 @@ h4 {
     }
 
     .illustration {
-        width: 88%;
+        width: 89%;
         height: 10%;
     }
 
