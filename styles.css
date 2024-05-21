@@ -118,12 +118,15 @@ h4 {
 @media screen and (min-width: 900px) and (max-width: 1440px) {
     
     body {
-        margin-left: 505px;
+        max-height: 960px;
+        overflow-y: auto;
     }
 
     .card {
         width: 103%;
         height: 64%;
+        margin-top: 260px;
+        margin-left: 532px;
         border: solid 1px;
     }
 
