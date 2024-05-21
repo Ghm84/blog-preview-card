@@ -78,6 +78,11 @@ h3 {
     margin-left: 26px;
 }
 
+h3:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
 p {
     color: hsl(0, 0%, 50%);
     font-family: "Figtree";
@@ -145,6 +150,11 @@ h4 {
         font-family: "Figtree";
         font-size: 22px;
         font-weight: 800;
+    }
+
+    h3:hover {
+        color: hsl(47, 88%, 63%);
+        cursor: pointer;
     }
 
     p {
