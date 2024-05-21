@@ -2,21 +2,21 @@ body {
     background-color: hsl(47, 88%, 63%);
     width: 375px;
     height: 812px;
+    overflow: auto;
 }
 
 .card {
     background-color: hsl(0, 0%, 100%);
-    width: 89%;
+    width: 87%;
     height: 63%;
     margin-top: 32%;
-    margin-left: 22px;
+    margin-left: 20px;
     border: solid .5px;
     border-radius: 5%;
     border-color: hsl(0, 0%, 7%);
     box-shadow: 
     8px 8px 0px rgba(0, 0, 0, 0.9),
     6px 8px 0px rgba(0, 0, 0, 0.9);
-    overflow: hidden;
 }
 
 .container {
@@ -30,10 +30,10 @@ body {
 }
 
 .illustration {
-    width: 295px;
+    width: 290px;
     height: 210px;
     margin-top: 22px;
-    margin-left: 20px;
+    margin-left: 19px;
     border-radius: 14px;
     object-fit: cover;
 }
@@ -55,7 +55,7 @@ h1 {
     padding-right: .10px;
     padding-bottom: 7px;
     margin-top: 15px;
-    margin-left: 25px;
+    margin-left: 23px;
     text-align: center;
     border-radius: 5px;
 }
