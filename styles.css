@@ -119,7 +119,7 @@ h4 {
     
     body {
         max-height: 960px;
-        overflow-y: auto;
+        overflow: auto;
     }
 
     .card {
